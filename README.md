@@ -1,16 +1,9 @@
 # employee_management
 
-A new Flutter project.
+A Simple app for Internship assignment in amazink 
 
-## Getting Started
+## HOW TO LOGIN
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+you can access my app with this email & password 
+eve.holt@reqres.in
+password: pistol 
